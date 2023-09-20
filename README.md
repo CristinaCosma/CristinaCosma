@@ -4,7 +4,7 @@
 - 💞️ I spend my time with my family, take a walk by the sea, or I do manual/artistic stuff like photographyin and 
     I also love design and craftsmanship and to makings things with my hands (especially wood furniture / objects) ;
     I read about anything from tech to psychology, education, people, places, and of course, about programming and computer science.
-- 📫 I speak 5 [human] languages, lived in many places and I am a "Citizen of the world".
+- 📫 I speak 5 [human] languages, lived in many places in Europe and North America and I consider myself a "Citizen of the world".
 
 <!---
 CristinaCosma/CristinaCosma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
